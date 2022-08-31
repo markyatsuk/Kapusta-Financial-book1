@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/Kapusta-Financial-book/static/css/main.7acaea2f.css",
-    "main.js": "/Kapusta-Financial-book/static/js/main.07d3183d.js",
+    "main.css": "/Kapusta-Financial-book/static/css/main.1b357243.css",
+    "main.js": "/Kapusta-Financial-book/static/js/main.6fe6b896.js",
+    "static/media/CabbageGroup.png": "/Kapusta-Financial-book/static/media/CabbageGroup.8d475dd61cb62ca1a1b1.png",
+    "static/media/cabbage.svg": "/Kapusta-Financial-book/static/media/cabbage.233805511f94fc865ec8195e18e8c526.svg",
+    "static/media/IconHomeTablet.svg": "/Kapusta-Financial-book/static/media/IconHomeTablet.614f1b6bfb1c754e7ede845512cfb726.svg",
+    "static/media/IconHomeDesktop.svg": "/Kapusta-Financial-book/static/media/IconHomeDesktop.eb3db8ddb87e9077e0c2ef723c84b8fc.svg",
+    "static/media/IconHomeMobile.svg": "/Kapusta-Financial-book/static/media/IconHomeMobile.700cad62dadbd02c6f63dc8c97d81be5.svg",
+    "static/media/Logo.svg": "/Kapusta-Financial-book/static/media/Logo.d88adb9594eea04d3cc4.svg",
+    "static/media/google.svg": "/Kapusta-Financial-book/static/media/google.bc613d17d42cf9d99e78b232895bd254.svg",
     "index.html": "/Kapusta-Financial-book/index.html",
-    "main.7acaea2f.css.map": "/Kapusta-Financial-book/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Kapusta-Financial-book/static/js/main.07d3183d.js.map"
+    "static/media/eye.svg": "/Kapusta-Financial-book/static/media/eye.3e417dc0051324d22866425728987a54.svg",
+    "static/media/logout-btn.svg": "/Kapusta-Financial-book/static/media/logout-btn.b0d0b751486e8013ef5bbd83a88ec650.svg",
+    "main.1b357243.css.map": "/Kapusta-Financial-book/static/css/main.1b357243.css.map",
+    "main.6fe6b896.js.map": "/Kapusta-Financial-book/static/js/main.6fe6b896.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.1b357243.css",
+    "static/js/main.6fe6b896.js"
   ]
 }
